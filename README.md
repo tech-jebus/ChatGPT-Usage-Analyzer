@@ -34,9 +34,9 @@ pip install tiktoken matplotlib numpy
 1. Export your ChatGPT data from OpenAI Settings > Data Controls > Export  
 2. Extract the `conversations.json` file into the script’s folder  
 3. Run the script with:
-
-python chatgpt_usage_analyzer.py
-
+```bash
+python counter.py
+```
 4. The script prints stats and shows usage graphs  
 
 ---
