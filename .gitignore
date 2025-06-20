@@ -1,0 +1,8 @@
+conversations.json
+
+chat.html
+
+__pycache__/
+*.pyc
+
+.env
